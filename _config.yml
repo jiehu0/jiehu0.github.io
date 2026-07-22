@@ -143,14 +143,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/avatar.jpg"
+og_image                 : "avatar.jpg"
 og_description           : *description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "jiehu0"
+  links:
+    - "https://github.com/jiehu0"
 
 
 # Analytics
