@@ -1,0 +1,7 @@
+# 顶部导航
+main:
+  - title: "关于"
+    url: /
+
+  - title: "GitHub"
+    url: https://github.com/jiehu0
