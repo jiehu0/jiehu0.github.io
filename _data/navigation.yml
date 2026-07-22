@@ -1,6 +1,6 @@
-# 顶部导航
+# Top navigation
 main:
-  - title: "关于"
+  - title: "About"
     url: /
 
   - title: "GitHub"

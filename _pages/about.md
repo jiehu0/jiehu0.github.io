@@ -1,31 +1,31 @@
 ---
 permalink: /
-title: "关于我"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-你好，我是 **jiehu0**，现就读于东南大学计算机科学与工程学院，是一名 2025 级硕士研究生。
+Hello, I am **jiehu0**, an M.S. student in the 2025 cohort at the School of Computer Science and Engineering, Southeast University.
 
-## 关于
+## About
 
-我正在计算机科学领域持续学习与探索。研究生阶段，我希望通过扎实的基础学习、清晰的问题分析和持续的工程实践，逐步建立自己的知识体系与研究能力。
+I am exploring the broad field of computer science. During my graduate studies, I aim to build a solid foundation and develop my research skills through clear problem analysis and continuous engineering practice.
 
-## 当前关注
+## Current Interests
 
-- **研究与学习**：理解计算机科学的核心概念，关注领域进展，以问题为导向积累研究能力。
-- **工程与实践**：把想法转化为可以运行、验证和改进的作品。
-- **记录与分享**：整理学习过程，复盘阶段性思考，并与他人交流。
+- **Research and Learning:** Understanding core concepts in computer science, following new developments, and building research skills through problem-driven study.
+- **Engineering and Practice:** Turning ideas into working, testable, and improvable projects.
+- **Writing and Sharing:** Organizing what I learn, reflecting on progress, and exchanging ideas with others.
 
-## 教育经历
+## Education
 
-**东南大学** · 计算机科学与工程学院  
-硕士研究生，2025 — 至今
+**Southeast University** · School of Computer Science and Engineering<br>
+M.S. Student, 2025 — Present
 
-## 联系方式
+## Contact
 
-- GitHub：[@jiehu0](https://github.com/jiehu0)
+- GitHub: [@jiehu0](https://github.com/jiehu0)
 
-本站将持续更新项目、研究经历与学习记录。
+This site will be updated with projects, research experience, and study notes.

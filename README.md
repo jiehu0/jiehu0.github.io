@@ -1,12 +1,12 @@
 # jiehu0.github.io
 
-我的学术主页，记录在东南大学计算机科学与工程学院的学习、实践与思考。
+My academic homepage, documenting my studies, projects, and ideas at the School of Computer Science and Engineering, Southeast University.
 
-访问地址：<https://jiehu0.github.io>
+Website: <https://jiehu0.github.io>
 
-本项目基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io) 模板构建，并遵循其 MIT License。
+This site is built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template under the MIT License.
 
-## 本地预览
+## Local Preview
 
 ```bash
 bundle install
